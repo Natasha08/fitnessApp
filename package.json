@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Natasha08/fitnessApp/issues"
   },
-  "homepage": "https://github.com/Natasha08/fitnessApp#readme"
+  "homepage": "https://github.com/Natasha08/fitnessApp#readme",
+  "dependencies": {
+    "copy-webpack-plugin": "^4.2.3",
+    "html-webpack-plugin": "^2.30.1",
+    "lodash": "^4.17.4",
+    "webpack": "^3.10.0"
+  }
 }
