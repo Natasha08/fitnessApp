@@ -1,0 +1,7 @@
+##node_modules##
+node_modules
+.tmp
+
+##db_config##
+db_secret.js
+secret.js
